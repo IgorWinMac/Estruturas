@@ -15,7 +15,7 @@ public class SomaImpares {
 			}
 		}
 		System.out.println();
-		System.out.println("A soma dos número impares é: "+soma);
+		System.out.println("A soma dos nÃºmeros impares Ã©: "+soma);
 	}
 
 }
